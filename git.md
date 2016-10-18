@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-	<meta charset="UTF-8">
-	<title>git</title>
-</head>
-<style type="text/css">
-	#main{
-		width: 60%;
-
-		margin:auto;
-	}
-</style>
-<body>
-	<div id="main">
-	<h1>git学习笔记</h1>
+﻿<h1>git学习笔记</h1>
 	<h2>撤销修改</h2>
 	<p>场景1.仅保存到工作区，git checkout -- filename;
 	<p>场景2.提交到缓冲区，git reset HEAD filename,此时再按照场景1即可
@@ -31,5 +16,3 @@
 	<p>合并分支到当前分支 git merge filename</p>
 	<p>删除分支 git branch -d filename</p>
 	</div>
-</body>
-</html>
