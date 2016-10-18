@@ -1,3 +1,0 @@
-hello,this is the first demo text
-and this is my first time to learn git
-4th to commit
